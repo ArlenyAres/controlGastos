@@ -1,0 +1,28 @@
+{
+  "expenses": [
+    {
+      "id": "62fd",
+      "date": "2024-04-01",
+      "category": "colegio Maia",
+      "amount": 350
+    },
+    {
+      "id": "6f8c",
+      "date": "2024-04-26",
+      "category": "masaje",
+      "amount": 50
+    },
+    {
+      "id": "71ff",
+      "date": "2024-04-02",
+      "category": "Comida",
+      "amount": 134
+    },
+    {
+      "id": "6d5a",
+      "date": "2024-04-01",
+      "category": "Alquiler",
+      "amount": 930
+    }
+  ]
+}
